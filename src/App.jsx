@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Routes, Route, useNavigate, useParams } from '
 
 // --- PRODUCTION CONFIGURATION ---
 // In production, this would use import.meta.env.VITE_API_URL
-const BASE_URL = 'http://localhost:8000'; 
+const BASE_URL = 'https://zeropoint-intel.onrender.com'; 
 
 // --- ADVANCED GLOBAL STYLES (CSS-IN-JS) ---
 // Includes scrollbar styling, neon glows, and responsiveness.
