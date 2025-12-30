@@ -1,0 +1,21 @@
+{
+    "threats": [],
+    "assets": [
+        {
+            "name": "Windows",
+            "criticality": 10
+        },
+        {
+            "name": "Google",
+            "criticality": 8
+        },
+        {
+            "name": "Java",
+            "criticality": 6
+        },
+        {
+            "name": "Apache",
+            "criticality": 5
+        }
+    ]
+}
